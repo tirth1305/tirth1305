@@ -59,8 +59,8 @@ Molecular modeling and therapeutic site prediction using computational structura
 ---
 
 ### 📫 Connect with Me
-📧 **tirthpatel1305@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tirth1305)  
+📧 **tirth8950@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tirthpatel1305)  
 💻 [GitHub](https://github.com/tirth1305)  
 
 ---
