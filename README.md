@@ -20,8 +20,8 @@
 #### 🧬 [AMR Prediction ML Pipeline](https://github.com/tirth1305/AMR_Prediction_ML_Pipeline)
 Machine learning-based pipeline for predicting antimicrobial resistance in *Acinetobacter baumannii* using k-mer genomic features.
 
-#### 🧠 Lung Cancer Treatment Outcome Prediction
-Used **Random Forest** and **XGBoost** with TCGA data to predict lung adenocarcinoma treatment outcomes.  
+#### 🧠 [Lung Cancer Treatment Outcome Prediction](https://github.com/tirth1305/Lung_Cancer_Treatment_Outcome_Prediction.git)
+Used **Catboost** with TCGA data to predict lung adenocarcinoma treatment outcomes.  
 
 #### 🧫 Breast Cancer Pathway Analysis (KEGG)
 Analyzed the **PI3K-AKT** signaling pathway for breast cancer progression and potential drug targets.  
