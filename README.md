@@ -43,7 +43,7 @@ Molecular modeling and therapeutic site prediction using computational structura
 `Biopython` • `Scanpy` • `KEGG API` • `TCGA data` • `BV-BRC`  
 
 **Visualization:**  
-`Matplotlib` • `Seaborn` • `Plotly` • `After Effects`  
+`Matplotlib` • `Seaborn` •  
 
 **Others:**  
 `GitHub` • `Azure OpenAI` • `Streamlit` • `FAISS` • `LangChain`
@@ -59,7 +59,7 @@ Molecular modeling and therapeutic site prediction using computational structura
 ---
 
 ### 📫 Connect with Me
-📧 **tirth8950@gmail.com**  
+📧 **tirthq1@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tirthpatel1305)  
 💻 [GitHub](https://github.com/tirth1305)  
 
