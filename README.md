@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tirth Patel
 
-🎓 **Bioinformatics Researcher | Machine Learning in Genomics**
-🧬 **Department of Bioinformatics, Marwadi University**
-🔬 Interested in **Computational Biology, Cancer Genomics, and AI-driven Biomedical Research**
+* 🎓 **Bioinformatics Researcher | Machine Learning in Genomics**
+* 🧬 **Department of Bioinformatics, Marwadi University**
+* 🔬 Interested in **Computational Biology, Cancer Genomics, and AI-driven Biomedical Research**
 
 ---
 
