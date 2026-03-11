@@ -8,10 +8,9 @@
 
 ### 🚀 About Me
 - 🔬 Passionate about integrating **machine learning** with **biological data** to solve real-world healthcare challenges.  
-- 🧬 Researching **antimicrobial resistance prediction**, **cancer genomics**, and **graph-based biological networks**.  
+- 🧬 Researching **antimicrobial resistance prediction** & **cancer genomics**.  
 - ☁️ Hands-on with **Python, R, C#, SQL, Azure, and Streamlit**.  
 - 💡 I love designing **data-driven bioinformatics pipelines** — from raw sequencing to predictive modeling.  
-- 🎥 Also a creative **After Effects video editor** (because science should look good too 😉).  
 
 ---
 
@@ -21,10 +20,7 @@
 Machine learning-based pipeline for predicting antimicrobial resistance in *Acinetobacter baumannii* using k-mer genomic features.
 
 #### 🧠 [Lung Cancer Treatment Outcome Prediction](https://github.com/tirth1305/Lung_Cancer_Treatment_Outcome_Prediction.git)
-Used **Catboost** with TCGA data to predict lung adenocarcinoma treatment outcomes.  
-
-#### 🧫 Breast Cancer Pathway Analysis (KEGG)
-Analyzed the **PI3K-AKT** signaling pathway for breast cancer progression and potential drug targets.  
+Used **Catboost** and **XGBoost** with TCGA data to predict lung adenocarcinoma treatment outcomes.  
 
 #### 🧬 Prion Protein Structural Modeling
 Molecular modeling and therapeutic site prediction using computational structural biology.  
