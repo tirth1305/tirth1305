@@ -33,7 +33,7 @@ Molecular modeling and therapeutic site prediction using computational structura
 `Python` • `R` • `C#` • `SQL`
 
 **Machine Learning:**  
-`scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy`
+`scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `CatBoost`
 
 **Bioinformatics Tools:**  
 `Biopython` • `Scanpy` • `KEGG API` • `TCGA data` • `BV-BRC`  
