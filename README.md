@@ -1,64 +1,135 @@
-# 👋 Hi, I'm Tirth Patel  
+# 👋 Hi, I'm Tirth Patel
 
-🎓 **Bioinformatics Student | Machine Learning & Genomics Enthusiast**  
-💻 **Department of Bioinformatics, Marwadi University**  
-🌱 Exploring computational biology, transcriptomics, and AI-driven drug discovery  
-
----
-
-### 🚀 About Me
-- 🔬 Passionate about integrating **machine learning** with **biological data** to solve real-world healthcare challenges.  
-- 🧬 Researching **antimicrobial resistance prediction** & **cancer genomics**.  
-- ☁️ Hands-on with **Python, R, C#, SQL, Azure, and Streamlit**.  
-- 💡 I love designing **data-driven bioinformatics pipelines** — from raw sequencing to predictive modeling.  
+🎓 **Bioinformatics Researcher | Machine Learning in Genomics**
+🧬 **Department of Bioinformatics, Marwadi University**
+🔬 Interested in **Computational Biology, Cancer Genomics, and AI-driven Biomedical Research**
 
 ---
 
-### 🧩 Projects
+## 🚀 About Me
 
-#### 🧬 [AMR Prediction ML Pipeline](https://github.com/tirth1305/AMR_Prediction_ML_Pipeline)
-Machine learning-based pipeline for predicting antimicrobial resistance in *Acinetobacter baumannii* using k-mer genomic features.
+I am a bioinformatics researcher passionate about integrating **machine learning with biological data** to uncover insights in genomics and precision medicine.
 
-#### 🧠 [Lung Cancer Treatment Outcome Prediction](https://github.com/tirth1305/Lung_Cancer_Treatment_Outcome_Prediction.git)
-Used **Catboost** and **XGBoost** with TCGA data to predict lung adenocarcinoma treatment outcomes.  
+My work focuses on building **computational pipelines for omics data analysis**, including **genomics, methylation analysis, and antimicrobial resistance prediction**.
 
-#### 🧬 Prion Protein Structural Modeling
-Molecular modeling and therapeutic site prediction using computational structural biology.  
+I enjoy working at the intersection of:
+
+* 🧬 **Genomics & Transcriptomics**
+* 🤖 **Machine Learning for Biomedical Data**
+* 🧪 **Cancer Bioinformatics**
+* 🧫 **Antimicrobial Resistance Prediction**
+* 📊 **Omics Data Analysis & Visualization**
+
+Currently exploring **Graph Neural Networks for antibiotic combination prediction and biological network analysis.**
 
 ---
 
-### 🧰 Tech Stack
+## 🧩 Featured Projects
 
-**Languages:**  
+### 🧬 AMR Prediction ML Pipeline
+
+🔗 https://github.com/tirth1305/AMR_Prediction_ML_Pipeline
+
+Machine learning pipeline to predict **antimicrobial resistance in *Acinetobacter baumannii*** using genomic k-mer features.
+
+**Key Highlights**
+
+* Genome assembly feature extraction
+* k-mer based feature engineering
+* ML models for resistance prediction
+* Achieved ~80% classification accuracy
+
+---
+
+### 🧠 Lung Cancer Treatment Outcome Prediction
+
+🔗 https://github.com/tirth1305/Lung_Cancer_Treatment_Outcome_Prediction
+
+Predicting **chemotherapy outcomes in lung adenocarcinoma (LUAD)** using **TCGA data and machine learning models**.
+
+**Methods**
+
+* Feature engineering on clinical variables
+* Class imbalance handling using SMOTENC
+* Ensemble ML models (CatBoost, XGBoost)
+* Multi-class outcome prediction
+
+---
+
+### 🧬 DNA Methylation Analysis Pipeline
+
+Analysis of **Illumina EPIC methylation array data** for differential methylation studies.
+
+**Workflow**
+
+* IDAT preprocessing
+* normalization
+* Differential Methylated Positions (DMP)
+* Differential Methylated Regions (DMR)
+* Functional annotation (GO / KEGG)
+
+---
+
+### 🤖 Resume Ranker (LLM Application)
+
+LLM-based application for **ranking resumes against job descriptions** using semantic similarity.
+
+**Technologies**
+
+* LangChain
+* Azure OpenAI
+* FAISS
+* Streamlit
+
+---
+
+## 🧰 Technical Skills
+
+### Programming
+
 `Python` • `R` • `C#` • `SQL`
 
-**Machine Learning:**  
-`scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `CatBoost`
+### Machine Learning
 
-**Bioinformatics Tools:**  
-`Biopython` • `Scanpy` • `KEGG API` • `TCGA data` • `BV-BRC`  
+`Scikit-learn` • `XGBoost` • `LightGBM` • `CatBoost`
+`Feature Engineering` • `SMOTE / SMOTENC` • `Model Evaluation`
 
-**Visualization:**  
-`Matplotlib` • `Seaborn` •  
+### Bioinformatics Tools
 
-**Others:**  
-`GitHub` • `Azure OpenAI` • `Streamlit` • `FAISS` • `LangChain`
+`FastQC` • `Trimmomatic` • `Fastp` • `SRA Toolkit`
+`GenomeStudio` • `Unicycler` • `Cytoscape`
+`AutoDock Vina` • `PyMOL` • `BLAST`
 
----
+### Databases
 
-### 🏆 Highlights
-- 🧪 Built an ensemble ML model achieving ~80% accuracy in AMR prediction  
-- 🧠 Applied **feature selection & ensemble learning** for biological datasets  
-- 📊 Experienced with **omics data analysis**, **gene expression**, and **network biology**  
-- 🌐 Currently exploring **Graph Neural Networks for antibiotic combination prediction**  
+`NCBI` • `KEGG` • `UniProt` • `TCGA`
 
----
+### Visualization
 
-### 📫 Connect with Me
-📧 **tirthq1@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tirthpatel1305)  
-💻 [GitHub](https://github.com/tirth1305)  
+`Matplotlib` • `Seaborn` • `Tableau` • `Power BI`
+
+### AI / GenAI
+
+`LangChain` • `Azure OpenAI` • `FAISS` • `Streamlit`
 
 ---
 
-⭐ *"Bridging biology and machine learning — one dataset at a time."*
+## 🏆 Research Highlights
+
+* 🧪 Built ML models for **antimicrobial resistance prediction**
+* 🧬 Developed **DNA methylation analysis pipeline (EPIC array)**
+* 📊 Worked with **TCGA cancer genomics datasets**
+* 🤖 Applied **machine learning to biological datasets**
+* 📄 Research paper accepted at **ICCTRDA 2025**
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [tirthq1@gmail.com](mailto:tirthq1@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/tirthpatel1305
+💻 **GitHub:** https://github.com/tirth1305
+
+---
+
+⭐ *Bridging biology and machine learning — one dataset at a time.*
