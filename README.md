@@ -51,8 +51,8 @@ Predicting **chemotherapy outcomes in lung adenocarcinoma (LUAD)** using **TCGA 
 
 * Feature engineering on clinical variables
 * Class imbalance handling using SMOTENC
-* Ensemble ML models (CatBoost, XGBoost)
-* Multi-class outcome prediction
+* Hierachical learning using CatBoost
+  
 
 ---
 
@@ -70,18 +70,7 @@ Analysis of **Illumina EPIC methylation array data** for differential methylatio
 
 ---
 
-### 🤖 Resume Ranker (LLM Application)
 
-LLM-based application for **ranking resumes against job descriptions** using semantic similarity.
-
-**Technologies**
-
-* LangChain
-* Azure OpenAI
-* FAISS
-* Streamlit
-
----
 
 ## 🧰 Technical Skills
 
